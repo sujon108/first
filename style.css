@@ -1,0 +1,76 @@
+body{
+    padding: 5px;
+}
+h1{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.high-light{
+    color: palevioletred;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding: 2%;
+}
+.half-width img{
+    width: 85%;
+   
+}
+
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: darkgoldenrod;
+    background-color: brown;
+    
+
+}
+p{
+    text-align: justify;
+}
+section{
+    height: 500px;
+    
+}
+.short{
+    border: 5px solid pink;
+    height: 100px;
+    width: auto;
+    overflow: scroll;
+    
+}
+.high{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    padding: 1%;
+
+}
+.high img{
+    width: 100%;
+}
+.sun{
+    text-align: center;
+}
+.sujon{
+    height: 80%;
+    width: 25%;
+}
+.fine{
+    text-align: center;
+}
+
+.finish{
+    text-align: center;
+    margin-left: 25%;
+    border: 5px solid red;
+    width: 50%;
+    border-radius: 5px;
+    background-color: blueviolet;
+    padding: 60px 40px;
+
+}
